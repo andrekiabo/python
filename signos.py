@@ -1,4 +1,4 @@
-# @title
+# Signos
 print('Informar o signo conforme a data de nascimento.')
 
 dia = input('Digite o dia do nascimento: ')
@@ -111,7 +111,3 @@ else:
 
     else:
         print(f'Essa data: {dia} de {mes} não existe, por favor digite uma data válida.')
-
-
-
-
